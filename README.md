@@ -2,106 +2,71 @@
   <img height="222" src="./assets/logo.png"/>
 </p>
 
-# 🚀 Tech Stack
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,nodejs,express,webpack,vite,angular,ts" />
-  python,php,cs,java,cpp,webpack,git,github,docker,linux,bash,vscode,figma,ps,postgres,mysql,mongodb,firebase"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=440&lines=QuantFerox;Moves+at+quantum+speed.;Hits+like+a+predator." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Murad 👋</h1>
-
-<p align="center">
-  <strong>Full Stack Developer • Open Source Enthusiast • UI/UX Perfectionist</strong>
-</p>
-
-<p align="center">
-  Building modern applications with clean architecture, performance and attention to every pixel.
-</p>
-
-<p align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/QuantFerox)
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</p>
+<br/>
 
 ---
 
-# ⚡ About Me
-
-```ts
-const murad = {
-  nickname: "QuantFerox",
-
-  location: "Azerbaijan",
-
-  role: "Full Stack Developer",
-
-  focus: ["Angular", "TypeScript", "Python", "Node.js", "PHP", "Open Source"],
-
-  architecture: ["Clean Code", "Scalable Apps", "Reusable Components", "Performance First"],
-
-  currentlyWorkingOn: [
-    "VS Code Ecosystem",
-    "Open Source Libraries",
-    "Developer Tooling",
-    "Modern UI",
-  ],
-
-  hobbies: ["Reverse Engineering", "Cybersecurity", "Linux", "Design Systems"],
-
-  motto: "Code should look like it was written by one person.",
-};
-```
-
----
-
----
-
-# 📊 GitHub Stats
-
+<details>
+<summary>⚡ &nbsp;<b>Frontend</b> &nbsp;—&nbsp; interfaces that feel inevitable</summary>
+<br/>
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=QuantFerox&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=QuantFerox&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,vue,nuxt,angular,svelte&perline=13" />
 </p>
+<br/>
+</details>
 
+<details>
+<summary>🛠 &nbsp;<b>Backend & Database</b> &nbsp;—&nbsp; systems built to last</summary>
+<br/>
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantFerox&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,deno,graphql,prisma,postgres,mysql,mongodb,redis,firebase,supabase&perline=13" />
 </p>
+<br/>
+</details>
 
----
+<details>
+<summary>🧬 &nbsp;<b>Languages</b> &nbsp;—&nbsp; tools are secondary, logic is primary</summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,cs,java,cpp,rust,go&perline=7" />
+</p>
+<br/>
+</details>
 
-# 🏆 Achievements
+<details>
+<summary>🔧 &nbsp;<b>DevOps & Tooling</b> &nbsp;—&nbsp; the invisible backbone</summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,bash,git,github,githubactions,vite,webpack,vitest,jest,figma&perline=13" />
+</p>
+<br/>
+</details>
 
-- ⚡ Building polished developer tools
-- 🚀 Open Source contributor
-- 🧩 Clean Architecture advocate
-- 🎨 UI / UX perfectionist
-- 🔥 Performance obsessed
-- 📦 Library author
-- 🌍 Constantly learning new technologies
+<details>
+<summary>☁️ &nbsp;<b>Cloud & Platforms</b> &nbsp;—&nbsp; deployed, scaled, delivered</summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,netlify,vscode,postman,ps,ai&perline=9" />
+</p>
+<br/>
+</details>
 
----
-
-# 💻 Philosophy
-
-> "Any fool can write code that a computer can understand.
-> Good developers write code that humans can understand."
+<br/>
 
 ---
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantFerox&theme=react-dark&hide_border=true&area=true&color=A855F7&line=A855F7&point=ffffff&bg_color=0d1117"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=QuantFerox&style=for-the-badge&color=blue"/>
+<br/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuantFerox&style=for-the-badge&color=blueviolet&label=VISITORS"/>
 </p>
